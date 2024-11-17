@@ -1,0 +1,645 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中国共产党&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中国共产党在抗日时期承担了重要的任务，并且与各种国内国际矛盾和关系紧密相关。"</data>
+      <data key="d2">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </node>
+    <node id="&quot;抗日时期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"抗日时期是指1937年至1945年期间，中国抵抗日本侵略的战争阶段。"</data>
+      <data key="d2">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </node>
+    <node id="&quot;中日矛盾&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"中日矛盾指的是中日之间的主要矛盾，在特定历史时期表现为民族矛盾和帝国主义与中国的矛盾。"</data>
+      <data key="d2">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </node>
+    <node id="&quot;国际关系&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"国际关系在抗日时期由于中国面临的外部威胁而发生变化，具体表现在与其他国家的关系上。"</data>
+      <data key="d2">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </node>
+    <node id="&quot;国内阶级关系&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"国内阶级关系指的是内部的阶级斗争和矛盾，在抗日时期发生了变化。"</data>
+      <data key="d2">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </node>
+    <node id="&quot;民族矛盾和国内矛盾的目前发展阶段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"这一事件标志着民族矛盾和国内矛盾在特定历史阶段的变化。"</data>
+      <data key="d2">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </node>
+    <node id="&quot;一九二七年以国民党为代表的资产阶级叛变革命&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1927年，以国民党为代表的一部分资产阶级背叛了革命，出卖了民族利益。"</data>
+      <data key="d2">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </node>
+    <node id="&quot;一九三一年九一八事变&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"九一八事变发生在1931年，标志着中日矛盾的加剧。"</data>
+      <data key="d2">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </node>
+    <node id="&quot;一九三五年华北事变&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"一九三五年华北事变进一步加剧了中日之间的矛盾。"</data>
+      <data key="d2">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </node>
+    <node id="&quot;中国军阀割据和军阀内战&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"在抗日时期，中国的军阀割据和内战情况发生了变化，受到日本帝国主义的支持与某些国家的反对。"</data>
+      <data key="d2">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </node>
+    <node id="&quot;学生界、文化界、舆论界救亡运动&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This event refers to the salvation movements among students, cultural circles, and public opinion sectors, aimed at resisting Japanese aggression."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;红军的进入西北&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Red Army's entry into Northwest China indicates their strategic military movement and presence in a specific region of China."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;共产党的抗日民族统一战线政策宣传和组织工作&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The propaganda and organizational work by the Communist Party to establish an Anti-Japanese National United Front is about promoting unity against Japanese invasion."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;上海和青岛的反日罢工&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This event refers to anti-Japanese strikes in Shanghai and Qingdao, highlighting worker resistance against Japanese influence in these cities."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;英国对日政策之趋向比较强硬&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British policy towards Japan is described as becoming increasingly assertive, indicating a shift in their diplomatic stance."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;两广事变&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This event refers to the events in Guangdong and Guangxi provinces involving internal conflicts and resistance against Japanese influence."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;绥远战争和援绥运动&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This organization describes military operations and support activities in Suiyuan province, highlighting regional resistance efforts."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;南京在中日谈判中的比较强硬的态度&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The strong stance taken by Nanjing in Sino-Japanese negotiations reflects their assertiveness against Japanese demands."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;西安事变&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This event refers to the Xi'an Incident, a significant political and military confrontation that affected national unity and anti-Japanese efforts."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;南京国民党的三中全会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Third Plenary Session of the Nationalist Government in Nanjing represents a critical policy-making event during this period."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;绥远战争&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Suiyuan War refers to a series of military conflicts in Suiyuan province, indicating resistance against Japanese influence."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;援绥运动&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Aid to Suiyuan Movement involves support and resistance activities in the region during the war."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;南京谈判&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Nanjing Negotiations refer to significant diplomatic efforts involving China and Japan, where strong stances were taken by Chinese representatives."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;亲日派&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pro-Japanese factions within the Nationalist Government are individuals or groups that supported Japanese interests or policies."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;和平、民主和抗日的分子&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Peace, Democracy, and Anti-Japanese Forces are organizations or movements advocating for peace, democracy, and resistance against Japan."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;动摇犹豫分子&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Indecisive and wavering individuals who might be influenced by pro-Japanese sentiments but are open to persuasion towards democratic and anti-Japanese positions."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;亲日势力的扶植&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Cultivation of Pro-Japanese Forces refers to efforts by Japan to support or influence certain groups within China, particularly those favoring cooperation with Japan."</data>
+      <data key="d2">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </node>
+    <node id="&quot;国民大会&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"National Assembly is an event where genuine democratic elections can take place and a true democratic government can be established."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;宪法制定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Constitution drafting is an event aimed at establishing a true democracy by electing a legitimate democratic government."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;真正民主政府的执行&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The implementation of a truly democratic government, which is the result of genuine democratic elections and the establishment of a constitution."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;国内和平巩固&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Consolidation of domestic peace involves stopping armed conflict and enhancing national unity against external enemies."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;日本帝国主义的进攻&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Japan's aggression is the enemy that necessitates swift reform for national defense and total victory in resistance."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;改革完成&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Completion of reforms, including political democratization and people's freedoms, must be achieved quickly to counter Japanese invasion."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;言论、集会、结社自由实现&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Realizing the freedom of speech, assembly, and association is crucial for mobilizing the populace in defense of the country and reclaiming lost territories."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;国民党顽固派&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The stubborn elements within the Kuomintang oppose reforms and democratic movements, hindering the process towards national unification and unity against Japan."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;人民中的落后成分&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Retrogressive elements among the people resist reform efforts and democratic movements, creating obstacles for the establishment of a true united front."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;日本汉奸、亲日派、托洛茨基派&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Japanese collaborators, pro-Japanese factions, and Trotskyites are enemies that sabotage China's unification, democracy, and anti-Japanese efforts at every step."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;孙中山先生的革命的三民主义&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Sun Yat-sen's revolutionary Three Principles of the People (Sanminism) is a historical concept that gained people's faith during its implementation by Sun Yat-sen and the Communist Party."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;国民党清党运动&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Kuomintang's purge campaign against Communists, known as the 'Clear Party Movement,' led to the exclusion of Communists from political life and resulted in the failure of the revolution."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;抗日民族统一战线纲领&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Anti-Japanese National United Front Program is a coalition between the Communist Party and Kuomintang aimed at uniting against Japanese aggression."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;阿Q主义和恶意的污蔑&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Arrogant Q (AQ) mentality and malicious slander refer to false accusations or distortions of facts, often used to discredit opposing views or political opponents."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;国民大会选举&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"National Assembly election process where genuine democratic elections can take place to establish a true democratic government."</data>
+      <data key="d2">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </node>
+    <node id="&quot;国民党&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"国民党是文中提到的一个政治组织，强调其在对外争取独立解放、对内实现民主自由和增进人民幸福等方面的作用。同时提出两党合作的迫切要求。"</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;共产党&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"共产党是中国革命中的一个重要政党，提出自己的政治经济纲领，并强调与国民党合作的可能性，共同为民族独立、民权自由和民生幸福奋斗。"</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;三民主义&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"三民主义是文中提到的政治理念，包括民族主义、民权主义和民生主义，强调其在对外争取独立解放、对内实现民主自由和增进人民幸福方面的作用。"</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;工农民主共和国&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工农民主共和国是中国共产党提出的口号，在文中被提及，并说明即使在放弃此口号后也认为是正确的。"</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;爱国分子&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"爱国分子指的是国民党中的爱国人士，他们支持与共产党合作以实现共同目标。"</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;资产阶级民主革命任务&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"资产阶级民主革命任务是指文中提到的革命任务，强调在当前历史环境下需要无产阶级领导才能完成。"</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;大资产阶级&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"大资产阶级指在文中被提及的一个社会阶层，他们退出了革命并投靠帝国主义和封建势力，成为人民的敌人。"</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;小资产阶级&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"小资产阶级指在文中提到的一个社会阶层，是革命动力的一部分，与无产阶级、农民一起推动革命任务。"</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;国民党中的爱国分子&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"国民党中的爱国人士支持与共产党合作以实现共同目标。"</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;ALEX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alex is the leader of a team attempting first contact with an unknown intelligence, acknowledging the significance of their task."</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;SAM RIVERA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sam Rivera is a member of a team working on communicating with an unknown intelligence, showing a mix of awe and anxiety."</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;CONTROL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Control refers to the ability to manage or govern, which is challenged by an intelligence that writes its own rules."</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;INTELLIGENCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Intelligence here refers to an unknown entity capable of writing its own rules and learning to communicate."</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;FIRST CONTACT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"First Contact is the potential initial communication between humanity and an unknown intelligence."</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;HUMANITY'S RESPONSE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Humanity's Response is the collective action taken by Alex's team in response to a message from an unknown intelligence."</data>
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </node>
+    <node id="&quot;中国资产阶级&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中国资产阶级在经济上和政治上软弱，在特定的历史环境下可能会动摇变节。"</data>
+      <data key="d2">chunk-40fffaa63461c8a1084246c0940a3194</data>
+    </node>
+    <node id="&quot;无产阶级&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"无产阶级具有坚定性和彻底性，能够在民主革命中发挥关键作用，但需要克服其内在的不彻底性。"</data>
+      <data key="d2">chunk-40fffaa63461c8a1084246c0940a3194</data>
+    </node>
+    <node id="&quot;帝国主义和封建制度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"反对帝国主义和封建制度是中国资产阶级应该参与的任务。"</data>
+      <data key="d2">chunk-40fffaa63461c8a1084246c0940a3194</data>
+    </node>
+    <node id="&quot;抗日民族统一战线&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"抗日民族统一战线是由共产党领导的，旨在实现国家独立与民主目标的组织。"</data>
+      <data key="d2">chunk-40fffaa63461c8a1084246c0940a3194</data>
+    </node>
+    <node id="&quot;资产阶级民主革命&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"资产阶级民主革命是历史上已经证明了的任务，但必须由无产阶级领导才能完成。"</data>
+      <data key="d2">chunk-40fffaa63461c8a1084246c0940a3194</data>
+    </node>
+    <node id="&quot;中肃清这个倾向&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This refers to a necessary action against an undesirable trend within an organization, emphasizing the need for discipline and unity."</data>
+      <data key="d2">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </node>
+    <node id="&quot;依靠多数和照顾全局&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"This concept highlights the importance of majority support and considering overall interests in organizational decisions."</data>
+      <data key="d2">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </node>
+    <node id="&quot;陈独秀尾巴主义的复活&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chen Duxiu's revival of 'tailism' is mentioned, indicating a historical reference to an individual who was previously criticized for his political stance."</data>
+      <data key="d2">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </node>
+    <node id="&quot;资产阶级改良主义在无产阶级队伍中的反映&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"This concept refers to the influence of bourgeois reformist ideas within the ranks of the proletariat, highlighting class struggles and ideological battles."</data>
+      <data key="d2">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </node>
+    <node id="&quot;降低党的立场，模糊党的面目，牺牲工农利益去适合资产阶级改良主义的要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This event describes a situation where reducing party positions, obscuring its image, and sacrificing the interests of workers and farmers to meet the requirements of bourgeois reformist ideology could lead to revolutionary failure."</data>
+      <data key="d2">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </node>
+    <node id="&quot;实行坚决的革命政策，争取资产阶级民主革命的彻底胜利&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"This concept outlines a firm revolutionary policy aimed at achieving complete victory in the bourgeois democratic revolution, emphasizing strong measures and goals."</data>
+      <data key="d2">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </node>
+    <node id="&quot;为了达到克服上述这些不良倾向的目的，在全党中提高马克思列宁主义的理论水平是完全必要的，因为只有这种理论，才是引导中国革命走向胜利的指南针&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This event describes the necessity of raising the theoretical level of Marxism-Leninism throughout the party to overcome adverse trends and guide China's revolution towards victory."</data>
+      <data key="d2">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </node>
+    <node id="&quot;马克思列宁主义&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Marxism-Leninism is a key ideological concept, serving as the guiding theory for the Chinese revolution."</data>
+      <data key="d2">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </node>
+    <node id="&quot;中国革命&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"China's revolution refers to the broader historical and political movement aimed at transforming China's society and government through revolutionary means."</data>
+      <data key="d2">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </node>
+    <node id="&quot;民族统一战线&quot;">
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+      <data key="d1">"三民主义被提及为民族统一战线的一部分，强调其在建立民族统一战线中的作用。</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;无产阶级、农民、小资产阶级&quot;">
+      <data key="d2">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+      <data key="d1">"这些社会阶层是工农民主共和国口号的主要支持者和推动者，他们共同为民族独立、民权自由和民生幸福奋斗。</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;无产阶级政党&quot;">
+      <data key="d2">chunk-40fffaa63461c8a1084246c0940a3194</data>
+      <data key="d1">"中国资产阶级需要在无产阶级政党的领导下才能完成反帝反封建的任务，显示出二者之间的依赖关系。"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;提高马克思列宁主义的理论水平是完全必要的&quot;">
+      <data key="d2">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+      <data key="d1">"Raising the theoretical level of Marxism-Leninism is essential to achieve a firm revolutionary policy and ensure complete victory in the bourgeois democratic revolution, indicating their interconnectedness."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;中国共产党&quot;" target="&quot;中日矛盾&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"中国共产党在处理中日矛盾时承担了领导角色，并制定了相应的统一战线政策。</data>
+      <data key="d5">"leadership, strategy"</data>
+      <data key="d6">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </edge>
+    <edge source="&quot;中国共产党&quot;" target="&quot;抗日时期&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"在抗日时期，中国共产党参与并引领了各种与抗日期有关的行动和策略。"</data>
+      <data key="d5">"resistance leadership, strategic role"</data>
+      <data key="d6">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </edge>
+    <edge source="&quot;中国共产党&quot;" target="&quot;民族矛盾和国内矛盾的目前发展阶段&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"中国共产党参与并影响了这一历史阶段的进程。</data>
+      <data key="d5">"influence, leadership"</data>
+      <data key="d6">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </edge>
+    <edge source="&quot;中国共产党&quot;" target="&quot;一九三一年九一八事变&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"九一八事变的发生导致了中日矛盾的加剧，中国共产党对此做出了反应。</data>
+      <data key="d5">"response, strategy"</data>
+      <data key="d6">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </edge>
+    <edge source="&quot;中国共产党&quot;" target="&quot;一九三五年华北事变&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"华北事变进一步强化了中日之间的矛盾，中国共产党也做出了相应的策略调整。</data>
+      <data key="d5">"strategy adjustment, response"</data>
+      <data key="d6">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </edge>
+    <edge source="&quot;中国共产党&quot;" target="&quot;中国军阀割据和军阀内战&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"抗日时期，中国共产党在处理内政时也需要应对军阀的割据与内战。</data>
+      <data key="d5">"management, conflict resolution"</data>
+      <data key="d6">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </edge>
+    <edge source="&quot;中日矛盾&quot;" target="&quot;国际关系&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"中日矛盾的变化影响了中国的国际关系，特别是在与某些国家建立共同对抗日本的关系上。</data>
+      <data key="d5">"influence, strategy"</data>
+      <data key="d6">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </edge>
+    <edge source="&quot;中日矛盾&quot;" target="&quot;国内阶级关系&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"中日矛盾导致了国内阶级关系的变化，尤其是资产阶级和军阀的态度发生了改变。"</data>
+      <data key="d5">"conflict dynamics, political shifts"</data>
+      <data key="d6">chunk-36cde8495370d68a2008c631c77bcbc1</data>
+    </edge>
+    <edge source="&quot;学生界、文化界、舆论界救亡运动&quot;" target="&quot;共产党的抗日民族统一战线政策宣传和组织工作&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"These events are interconnected as the salvation movements and propaganda efforts aim to build support for the Anti-Japanese National United Front."</data>
+      <data key="d5">"support, unity"</data>
+      <data key="d6">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </edge>
+    <edge source="&quot;学生界、文化界、舆论界救亡运动&quot;" target="&quot;援绥运动&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Both movements involve resistance and support for national unity against Japanese aggression."</data>
+      <data key="d5">"resistance, support"</data>
+      <data key="d6">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </edge>
+    <edge source="&quot;红军的进入西北&quot;" target="&quot;绥远战争和援绥运动&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"The Red Army's presence in Northwest China provides a strategic base that supports regional resistance movements like those in Suiyuan."&lt;SEP&gt;"The Red Army's presence in Northwest China supports the regional resistance efforts in Suiyuan province."</data>
+      <data key="d5">"strategic support, resistance"&lt;SEP&gt;"support, strategic base"</data>
+      <data key="d6">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </edge>
+    <edge source="&quot;共产党的抗日民族统一战线政策宣传和组织工作&quot;" target="&quot;西安事变&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Anti-Japanese National United Front's propaganda and organizational efforts laid the groundwork for significant political events like the Xi'an Incident."</data>
+      <data key="d5">"foundation, preparation"</data>
+      <data key="d6">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </edge>
+    <edge source="&quot;共产党的抗日民族统一战线政策宣传和组织工作&quot;" target="&quot;和平、民主和抗日的分子&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The propaganda and organizational work of the Communist Party aims to unite peace-loving, democratic, and anti-Japanese forces."</data>
+      <data key="d5">"unification, support"</data>
+      <data key="d6">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </edge>
+    <edge source="&quot;西安事变&quot;" target="&quot;南京国民党的三中全会&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Third Plenary Session of the Nationalist Government in Nanjing precedes the Xi'an Incident and sets the stage for its resolution."</data>
+      <data key="d5">"precedent, groundwork"</data>
+      <data key="d6">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </edge>
+    <edge source="&quot;南京谈判&quot;" target="&quot;亲日派&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Strong stances in Nanjing negotiations may be influenced by or include positions held by pro-Japanese factions within the government."</data>
+      <data key="d5">"influence, stance"</data>
+      <data key="d6">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </edge>
+    <edge source="&quot;和平、民主和抗日的分子&quot;" target="&quot;动摇犹豫分子&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Peace, Democracy, and Anti-Japanese Forces seek to persuade and integrate indecisive individuals into their movement."</data>
+      <data key="d5">"persuasion, integration"</data>
+      <data key="d6">chunk-745d91c4bfe4bece0cbb8aa7673621b9</data>
+    </edge>
+    <edge source="&quot;真正民主政府的执行&quot;" target="&quot;国民大会选举&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"The true democratic government can only be established through the National Assembly election process."</data>
+      <data key="d5">"democratic governance, national assembly"</data>
+      <data key="d6">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </edge>
+    <edge source="&quot;日本帝国主义的进攻&quot;" target="&quot;改革完成&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Japan's aggression necessitates rapid reform for national defense and total victory in resistance."</data>
+      <data key="d5">"national security, defense strategy"</data>
+      <data key="d6">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </edge>
+    <edge source="&quot;改革完成&quot;" target="&quot;言论、集会、结社自由实现&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Realizing freedom of speech, assembly, and association is essential for the comprehensive implementation of political democratization and people's freedoms."</data>
+      <data key="d5">"democratization process, national unity"</data>
+      <data key="d6">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </edge>
+    <edge source="&quot;言论、集会、结社自由实现&quot;" target="&quot;国民党顽固派&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Stubborn elements within the Kuomintang oppose the realization of freedom of speech, assembly, and association, hindering democratic progress."</data>
+      <data key="d5">"democratic obstruction, political opposition"</data>
+      <data key="d6">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </edge>
+    <edge source="&quot;言论、集会、结社自由实现&quot;" target="&quot;人民中的落后成分&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Retrogressive elements among the people resist reforms and democratic movements, creating obstacles for freedom of speech, assembly, and association."</data>
+      <data key="d5">"democratic resistance, social conservatism"</data>
+      <data key="d6">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </edge>
+    <edge source="&quot;孙中山先生的革命的三民主义&quot;" target="&quot;国民党清党运动&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Sun Yat-sen's revolutionary Three Principles of the People were implemented during the Kuomintang's purge campaign against Communists, which led to their exclusion and the failure of the revolution."</data>
+      <data key="d5">"ideological conflict, historical context"</data>
+      <data key="d6">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </edge>
+    <edge source="&quot;孙中山先生的革命的三民主义&quot;" target="&quot;抗日民族统一战线纲领&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Sun Yat-sen's revolutionary Three Principles of the People underpinned the establishment and goals of the Anti-Japanese National United Front Program."</data>
+      <data key="d5">"ideological foundation, national unity"</data>
+      <data key="d6">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </edge>
+    <edge source="&quot;国民党清党运动&quot;" target="&quot;抗日民族统一战线纲领&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"The Kuomintang's purge campaign against Communists created divisions that hindered the establishment and effectiveness of the Anti-Japanese National United Front Program."</data>
+      <data key="d5">"division, political opposition"</data>
+      <data key="d6">chunk-d902730fbdc9b975fbf3c8fcff169422</data>
+    </edge>
+    <edge source="&quot;国民党&quot;" target="&quot;三民主义&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"国民党强调其对三民主义的认同，以及与共产党的合作可能性。"</data>
+      <data key="d5">"理念一致, 合作可能"</data>
+      <data key="d6">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </edge>
+    <edge source="&quot;国民党&quot;" target="&quot;国民党中的爱国分子&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"爱国分子属于国民党的一部分，他们主张两党合作以推动革命任务。"</data>
+      <data key="d5">"内部支持, 政策认同"</data>
+      <data key="d6">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </edge>
+    <edge source="&quot;共产党&quot;" target="&quot;工农民主共和国&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"共产党提出并坚决执行工农民主共和国的口号，并在放弃后仍认为是正确的。</data>
+      <data key="d5">"政策延续, 历史责任"</data>
+      <data key="d6">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </edge>
+    <edge source="&quot;共产党&quot;" target="&quot;资产阶级民主革命任务&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"共产党组织并领导了资产阶级民主革命任务的执行，强调无产阶级在历史上的领导责任。"</data>
+      <data key="d5">"领导责任, 历史使命"</data>
+      <data key="d6">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </edge>
+    <edge source="&quot;三民主义&quot;" target="&quot;民族统一战线&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"三民主义被提及为民族统一战线的一部分，强调其在建立民族统一战线中的作用。</data>
+      <data key="d5">"理念基础, 统一战线"</data>
+      <data key="d6">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </edge>
+    <edge source="&quot;工农民主共和国&quot;" target="&quot;无产阶级、农民、小资产阶级&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"这些社会阶层是工农民主共和国口号的主要支持者和推动者，他们共同为民族独立、民权自由和民生幸福奋斗。</data>
+      <data key="d5">"政策基础, 支持力量"</data>
+      <data key="d6">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </edge>
+    <edge source="&quot;大资产阶级&quot;" target="&quot;民族统一战线&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"大资产阶级退出了革命并投靠帝国主义和封建势力，成为民族统一战线中的反动力量。</data>
+      <data key="d5">"反对力量, 分裂统一战线"</data>
+      <data key="d6">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </edge>
+    <edge source="&quot;ALEX&quot;" target="&quot;FIRST CONTACT&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Alex leads the team that might be making the First Contact with the unknown intelligence."</data>
+      <data key="d5">"leadership, exploration"</data>
+      <data key="d6">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </edge>
+    <edge source="&quot;ALEX&quot;" target="&quot;HUMANITY'S RESPONSE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Alex and his team are the key figures in Humanity's Response to the unknown intelligence."</data>
+      <data key="d5">"collective action, cosmic significance"</data>
+      <data key="d6">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </edge>
+    <edge source="&quot;SAM RIVERA&quot;" target="&quot;INTELLIGENCE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Sam Rivera is directly involved in the process of learning to communicate with the unknown intelligence."</data>
+      <data key="d5">"communication, learning process"</data>
+      <data key="d6">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </edge>
+    <edge source="&quot;CONTROL&quot;" target="&quot;INTELLIGENCE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The concept of Control is challenged by the Intelligence that writes its own rules."</data>
+      <data key="d5">"power dynamics, autonomy"</data>
+      <data key="d6">chunk-c3dde810bbd355e957bf67f94ad32c32</data>
+    </edge>
+    <edge source="&quot;中国资产阶级&quot;" target="&quot;无产阶级&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"中国资产阶级需要在无产阶级领导下才能完成反帝反封建的任务，显示出二者之间的依赖关系。"</data>
+      <data key="d5">"领导与被领导, 合作共赢"</data>
+      <data key="d6">chunk-40fffaa63461c8a1084246c0940a3194</data>
+    </edge>
+    <edge source="&quot;中国资产阶级&quot;" target="&quot;无产阶级政党&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"中国资产阶级需要在无产阶级政党的领导下才能完成反帝反封建的任务，显示出二者之间的依赖关系。"</data>
+      <data key="d5">"领导与被领导, 合作共赢"</data>
+      <data key="d6">chunk-40fffaa63461c8a1084246c0940a3194</data>
+    </edge>
+    <edge source="&quot;无产阶级&quot;" target="&quot;抗日民族统一战线&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"无产阶级是抗日民族统一战线的核心力量，并在其中发挥政治领导作用。"</data>
+      <data key="d5">"核心力量，政治领导"</data>
+      <data key="d6">chunk-40fffaa63461c8a1084246c0940a3194</data>
+    </edge>
+    <edge source="&quot;帝国主义和封建制度&quot;" target="&quot;抗日民族统一战线&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"抗日民族统一战线的主要目标是反对帝国主义和封建制度，二者处于对立面。&lt;br /&gt;"</data>
+      <data key="d5">"对抗，斗争"</data>
+      <data key="d6">chunk-40fffaa63461c8a1084246c0940a3194</data>
+    </edge>
+    <edge source="&quot;中肃清这个倾向&quot;" target="&quot;陈独秀尾巴主义的复活&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"The action against undesirable trends (中肃清这个倾向) is directed at overcoming Chen Duxiu's revival of 'tailism', indicating a clear opposition and effort to correct past mistakes."</data>
+      <data key="d5">"opposition, correction"</data>
+      <data key="d6">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </edge>
+    <edge source="&quot;降低党的立场，模糊党的面目，牺牲工农利益去适合资产阶级改良主义的要求&quot;" target="&quot;实行坚决的革命政策，争取资产阶级民主革命的彻底胜利&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Lowering the party's stance and sacrificing workers' and farmers' interests to suit bourgeois reformist demands could lead to revolutionary failure, contrasting with the need for a firm revolutionary policy to ensure complete victory in the bourgeois democratic revolution."</data>
+      <data key="d5">"failure vs. success, ideological struggle"</data>
+      <data key="d6">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </edge>
+    <edge source="&quot;实行坚决的革命政策，争取资产阶级民主革命的彻底胜利&quot;" target="&quot;提高马克思列宁主义的理论水平是完全必要的&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Raising the theoretical level of Marxism-Leninism is essential to achieve a firm revolutionary policy and ensure complete victory in the bourgeois democratic revolution, indicating their interconnectedness."</data>
+      <data key="d5">"theoretical support, strategic alignment"</data>
+      <data key="d6">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </edge>
+    <edge source="&quot;马克思列宁主义&quot;" target="&quot;中国革命&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Marxism-Leninism serves as the guiding theory for China's revolution, providing ideological and theoretical foundations.&lt;"|&gt;"guidance, theoretical foundation"</data>
+      <data key="d5">8</data>
+      <data key="d6">chunk-38db6209eeb4d8a305999d152d6b7174</data>
+    </edge>
+  </graph>
+</graphml>

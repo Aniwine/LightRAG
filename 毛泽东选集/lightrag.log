@@ -1,0 +1,14 @@
+2024-11-17 16:19:42,971 - lightrag - INFO - Logger initialized for working directory: ./毛泽东选集
+2024-11-17 16:19:42,971 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-17 16:19:42,972 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-17 16:19:42,972 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-17 16:19:42,972 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-17 16:19:43,147 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-17 16:19:43,147 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-17 16:19:43,893 - lightrag - INFO - [Entity Extraction]...
+2024-11-17 16:22:49,995 - lightrag - INFO - Inserting 71 vectors to entities
+2024-11-17 16:22:50,674 - lightrag - INFO - Inserting 43 vectors to relationships
+2024-11-17 16:22:51,095 - lightrag - INFO - Writing graph with 75 nodes, 43 edges
+2024-11-17 16:22:51,115 - lightrag - INFO - Truncate 6 to 4 chunks
+2024-11-17 16:23:07,792 - lightrag - INFO - Global query uses 57 entites, 43 relations, 3 text units
+2024-11-17 16:23:29,293 - lightrag - INFO - Global query uses 57 entites, 43 relations, 3 text units
