@@ -1,6 +1,7 @@
 import asyncio
 import html
 import os
+from tqdm.asyncio import tqdm as tqdm_async
 from dataclasses import dataclass
 from typing import Any, Union, cast
 import networkx as nx
@@ -95,14 +96,27 @@ class NanoVectorDBStorage(BaseVectorStorage):
             contents[i : i + self._max_batch_size]
             for i in range(0, len(contents), self._max_batch_size)
         ]
-        embeddings_list = await asyncio.gather(
-            *[self.embedding_func(batch) for batch in batches]
-        )
+        embedding_tasks = [self.embedding_func(batch) for batch in batches]
+        embeddings_list = []
+        for f in tqdm_async(
+            asyncio.as_completed(embedding_tasks),
+            total=len(embedding_tasks),
+            desc="Generating embeddings",
+            unit="batch",
+        ):
+            embeddings = await f
+            embeddings_list.append(embeddings)
         embeddings = np.concatenate(embeddings_list)
-        for i, d in enumerate(list_data):
-            d["__vector__"] = embeddings[i]
-        results = self._client.upsert(datas=list_data)
-        return results
+        if len(embeddings) == len(list_data):
+            for i, d in enumerate(list_data):
+                d["__vector__"] = embeddings[i]
+            results = self._client.upsert(datas=list_data)
+            return results
+        else:
+            # sometimes the embedding is not returned correctly. just log it.
+            logger.error(
+                f"embedding is not 1-1 with data, {len(embeddings)} != {len(list_data)}"
+            )
 
     async def query(self, query: str, top_k=5):
         embedding = await self.embedding_func([query])
